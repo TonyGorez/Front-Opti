@@ -1,0 +1,1 @@
+/usr/lib/postgresql/9.5/bin/postgres "-c" "config_file=/configs/postgres.conf"
